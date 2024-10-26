@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "LINGUAGEANDO",
+    "slug": "linguageando",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78077e5a-8ae9-4bae-97cf-4d4237f27225"
+      }
+    },
+    "owner": "marcushfbbdbrbb"
+  }
+}
