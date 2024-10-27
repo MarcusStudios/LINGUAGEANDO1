@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "LINGUAGEANDO",
-    "slug": "linguageando",
+    "name": "LINGUAGEANDO1",
+    "slug": "linguageando1",
+    "scheme": "linguageando1",  
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
